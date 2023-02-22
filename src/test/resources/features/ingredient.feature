@@ -1,3 +1,4 @@
+@runAll
 Feature: Ingredient Search
 
   @wp3

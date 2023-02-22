@@ -1,3 +1,5 @@
+
+@runAll
 Feature: Verify alcoholic or non-alcoholic drink in CocktailDB API
 
   @wp5

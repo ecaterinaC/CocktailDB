@@ -12,7 +12,7 @@ import org.junit.runner.RunWith;
         features = "src/test/resources/features",
         glue = "assignment/example/step_definition",
         dryRun = false,
-        tags = "@wp5"
+        tags = "@runAll"
 )
 public class CukesRunner {
 

@@ -1,3 +1,4 @@
+@runAll
 Feature: Cocktail Database API
 
     @wp1
